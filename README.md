@@ -6,14 +6,6 @@ A machine-learning solution for the **Loan Prediction** problem (Analytics Vidhy
 
 ---
 
-## Highlights (for resume)
-
-- Built an end-to-end classification pipeline for loan approval prediction: **data cleaning → feature engineering → model training → evaluation → submission generation**.
-- Implemented and compared multiple baseline ML models (LogReg/KNN/Decision Tree/Random Forest), then improved performance using **XGBoost**.
-- Generated final competition submission file (**bestCheck.csv**) containing `Loan_ID` and predicted `Loan_Status`.
-
----
-
 ## What I did (in order)
 
 1. **Loaded the dataset** (`train2.csv`) and performed basic exploration (shape, describe, null counts, unique counts).
